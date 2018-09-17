@@ -2,9 +2,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background-color: floralwhite;
+  background: linear-gradient(103deg, rgb(98, 199, 89), rgb(41, 157, 154));
   min-height: 100vh;
-
 }
 
 
